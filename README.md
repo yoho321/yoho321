@@ -1,5 +1,4 @@
-### Hi there 👋 
-### This is Jshe!
+### Hi there 👋  This is Jshe!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yoho321)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JyShen321/)
@@ -10,8 +9,6 @@ Welcome to my Github page!
 #### 🌱 Things I am currently working on: 
 - Finish my Information Technology Master Degree  
 - Taking courses about Data Science and Data Wrangling 
-
-#### :muscle: Things I am challenging myself with:
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
@@ -23,4 +20,4 @@ Welcome to my Github page!
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![GitStatus](https://github-readme-stats.vercel.app/api?username=yoho321&show_icons=true&hide_border=true)
+![GitStatus](https://github-readme-stats.vercel.app/api?username=yoho321&show_icons=true&hide_border=true&theme=synthwave)
